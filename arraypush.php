@@ -1,6 +1,6 @@
 <?php
 $json = '{"software_companyy":[{
-	"indianic":[
+	"indianic1":[
 	{"departments":[{"dep-1":"web","dep-2":"design","dep-3":"mvc"}]},
 	{"Employees":[{"Name":"kunal","age":"22","technology":"drupal"}]}
 	],
